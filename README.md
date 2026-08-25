@@ -144,6 +144,19 @@ Then open:
 ```text
 http://localhost:8501
 ```
+## Dashboard Preview
+
+### Forecast Overview
+
+![Forecast Dashboard](dashboard/dashboard%201.png)
+
+### Demand Forecasting
+
+![Demand Forecasting Dashboard](dashboard/dashboard%202.png)
+
+### Inventory Optimization
+
+![Inventory Optimization Dashboard](dashboard/dashboard%203.png)
 
 ## Project Structure
 
